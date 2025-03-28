@@ -4,7 +4,7 @@ This repository contains the complete R-script used for my master thesis titled:
 The masterthesis is part of a larger pilot study. It compares a 30 Hz continuous theta burst stimulation (cTBS) protocol with a sham control stimulation to explore the potential involvement of the left and right inferior occipital gyri in aversive episodic memory performance.
 
 ## Files
-- **Masterthesis_Script.R**: full R script used for thesis
+- [**Masterthesis_Script.R**](https://github.com/cljbongartz/Masterthesis_R_Script/blob/main/Masterthesis_Script.R): full R script used for thesis
 - **Data**: not included due to privacy concerns
 
 ## Structure of R Script:
